@@ -103,6 +103,7 @@ ul#instructions li::before{
 
 .nutrition-table th{
     padding-left: 45px;
+    font-weight: normal;
 }
 
 .nutrition-table td{

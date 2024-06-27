@@ -20,7 +20,7 @@ body{
 
 main{
     width: 650px;
-    height: 240vh;
+    height: 1550px;
     background-color: white;
     padding: 40px;
     margin: 30px;
@@ -121,11 +121,6 @@ ul#instructions li::before{
         margin: 0;
         padding: 40px;
     }
-
-    img{
-        border-radius: 0;
-    }
-
     li{
         padding-left: 0.5em;
     }
